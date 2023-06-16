@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13a1d6ef1abeebd4a92f75706908be25, type: 3}
+  m_Name: MeatyBurger
+  m_EditorClassIdentifier: 
+  sandwichName: Meatyburger
+  sandwichSprite: {fileID: 21300000, guid: da0c2dd298cea3e4c9fec1bdbb38bf98, type: 3}
+  sandwichIngredients:
+  - {fileID: 11400000, guid: 195a60284d5380b4fb574ee740a8d6b2, type: 2}
+  - {fileID: 11400000, guid: 77d54342ea0fa584697a2238f9c77a55, type: 2}
+  - {fileID: 11400000, guid: 71719e906ebc65d4ba7e1188e426693d, type: 2}
